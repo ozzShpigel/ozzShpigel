@@ -32,6 +32,9 @@ I am a software engineer with DevOps experience that loves diving deep into code
   <a href="https://azure.microsoft.com/en-us/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" with="50" height="50" alt="azure" >
   </a>
+  <a href="https://www.terraform.io/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/terraform.svg" with="50" height="50" alt="terraform" >
+  </a>
   <a href="https://www.docker.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" with="50" height="50" alt="docker" >
   </a>
