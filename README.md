@@ -35,6 +35,9 @@ I am a software engineer with DevOps experience that loves diving deep into code
   <a href="https://www.terraform.io/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/terraform.svg" with="50" height="50" alt="terraform" >
   </a>
+  <a href="https://www.packer.io//">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/packer/packer-original.svg" with="50" height="50" alt="packer" >
+  </a>
   <a href="https://www.docker.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" with="50" height="50" alt="docker" >
   </a>
