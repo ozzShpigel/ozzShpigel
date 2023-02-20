@@ -32,8 +32,11 @@ I am a software engineer with DevOps experience that loves diving deep into code
   <a href="https://azure.microsoft.com/en-us/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" with="50" height="50" alt="azure" >
   </a>
+  <a href="https://www.jenkins.io/">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jenkins/jenkins-original.svg" with="50" height="50" alt="jenkins" >
+  </a>
   <a href="https://www.terraform.io/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/terraform.svg" with="50" height="50" alt="terraform" >
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/terraform/terraform-original.svg" with="50" height="50" alt="terraform" >
   </a>
   <a href="https://www.packer.io//">
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/packer/packer-original.svg" with="50" height="50" alt="packer" >
