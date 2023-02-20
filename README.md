@@ -9,7 +9,7 @@
  </a>
 </p>
 <p>
-I am a software engineer with DevOps experience that loves diving deep into code. Reaching creative solutions to problems with an emphasis on architecture design, refactoring, design patterns, and best practices. Advanced experience and deep knowledge of a variety of technologies. Strong team player and good human relations.
+I am a software engineer with DevOps experience that loves diving deep into code. Reaching creative solutions to problems with an emphasis on architecture design, refactoring, design patterns, and best practices. Advanced experience and deep knowledge of a variety of technologies.
 </p> 
 
 <h2 align="center">🥷 Open Source Projects and Contributions</h2>
