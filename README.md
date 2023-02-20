@@ -8,7 +8,9 @@
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" />
  </a>
 </p>
-<p> 
+<p>
+I am a software engineer with DevOps experience that loves diving deep into code. Reaching creative solutions to problems with an emphasis on architecture design, refactoring, design patterns, and best practices. Advanced experience and deep knowledge of a variety of technologies. Strong team player and good human relations.
+</p> 
 
 <h2 align="center">🥷 Open Source Projects and Contributions</h2>
 
@@ -18,8 +20,6 @@
  <strong>
   Professional skills
   </strong>
-</p>
-I am a software engineer with DevOps experience that loves diving deep into code. Reaching creative solutions to problems with an emphasis on architecture design, refactoring, design patterns, and best practices. Advanced experience and deep knowledge of a variety of technologies. Strong team player and good human relations.
 </p>
 
 <p align="center">
