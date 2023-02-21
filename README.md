@@ -17,7 +17,7 @@ I am a software engineer with DevOps experience that loves diving deep into code
 
 <h2 align="center">🥷 Open Source Projects and Contributions</h2>
 
-- ✈️ https://github.com/ozzshpigel-organization/MicroserviceDemo
+- 🛍️ https://github.com/ozzshpigel-organization/MicroserviceDemo
 
 <p align="center"> 
  <strong>
