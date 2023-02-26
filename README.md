@@ -29,9 +29,6 @@ I am a software engineer with DevOps experience that loves diving deep into code
   <a href="https://dotnet.microsoft.com/en-us/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" with="50" height="50" alt="dotnet" >
   </a>
-  <a href="https://www.javascript.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" with="50" height="50" alt="javascript" >
-  </a>
   <a href="https://azure.microsoft.com/en-us/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" with="50" height="50" alt="azure" >
   </a>
