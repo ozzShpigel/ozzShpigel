@@ -28,9 +28,23 @@ I'm a software engineer with deep DevOps expertise who loves diving into complex
     <td align="center" width="160">
       <strong>Backend</strong><br><br>
       <a href="https://dotnet.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="36" height="36" alt=".NET" /></a>&nbsp;
+      <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>&nbsp;
+      <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI" /></a>
+    </td>
+    <td align="center" width="160">
+      <strong>Frontend</strong><br><br>
+      <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" /></a>&nbsp;
+      <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" /></a>&nbsp;
+      <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS" /></a>
+    </td>
+    <td align="center" width="160">
+      <strong>Data</strong><br><br>
+      <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" /></a>&nbsp;
       <a href="https://redis.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" /></a>&nbsp;
       <a href="https://www.rabbitmq.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="36" height="36" alt="RabbitMQ" /></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="160">
       <strong>Cloud & Infra</strong><br><br>
       <a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" height="36" alt="Azure" /></a>&nbsp;
@@ -43,6 +57,12 @@ I'm a software engineer with deep DevOps expertise who loves diving into complex
       <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36" height="36" alt="Kubernetes" /></a>&nbsp;
       <a href="https://www.jenkins.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="36" height="36" alt="Jenkins" /></a>
     </td>
+    <td align="center" width="160">
+      <strong>AI & APIs</strong><br><br>
+      <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" height="20" alt="Claude" /><br>
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" height="20" alt="Gemini" /><br>
+      <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white" height="20" alt="YouTube API" />
+    </td>
   </tr>
 </table>
 
@@ -50,6 +70,8 @@ I'm a software engineer with deep DevOps expertise who loves diving into complex
 
 | Project | Description |
 |---------|-------------|
+| [**Job Application Platform**](https://github.com/ozzShpigel/job-application-platform) | End-to-end job hunting automation — discovers listings from LinkedIn/Indeed, uses AI to score and match against your profile, monitors email for updates, and provides a unified tracking dashboard |
+| [**CandyBaby**](https://github.com/ozzShpigel/candybaby) | AI-powered YouTube Shorts engine — generates candy-themed baby character videos using Google Veo 3.1 (Gemini API), uploads to Google Drive, and publishes to YouTube/TikTok |
 | [**MicroserviceDemo**](https://github.com/ozzShpigel/MicroserviceDemo) | Two ASP.NET 6 microservices communicating via RabbitMQ, containerized with Docker |
 | [**ThinkingDiary**](https://github.com/ozzShpigel/ThinkingDiary) | A personal thinking and journaling application |
 | [**GlobalmanticsCore**](https://github.com/ozzShpigel/GlobalmanticsCore) | .NET Core application architecture sample |
