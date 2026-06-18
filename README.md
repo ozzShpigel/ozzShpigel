@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ozz Shpigel
+# Oz Shpigel
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Architecture+%26+Design+Patterns;DevOps+%26+Cloud+Infrastructure;Building+Reliable+Distributed+Systems" alt="Typing SVG" /></a>
 
