@@ -116,12 +116,12 @@ I'm a software engineer with deep DevOps expertise who loves diving into complex
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ozzShpigel&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ozzShpigel&show_icons=true&hide_border=true&bg_color=ffffff&title_color=6C63FF&icon_color=6C63FF&text_color=24292f" />
-  <img height="170" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ozzShpigel&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ozzShpigel&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ozzShpigel&hide_border=true&background=ffffff&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=24292f&dates=24292f&currStreakNum=24292f&sideNums=24292f" />
-  <img height="170" alt="GitHub Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ozzShpigel&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ozzShpigel&hide_border=true&background=ffffff&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=24292f&dates=24292f&currStreakNum=24292f&sideNums=24292f" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=ozzShpigel&hide_border=true" alt="GitHub Streak" />
 </picture>
 
 </div>
